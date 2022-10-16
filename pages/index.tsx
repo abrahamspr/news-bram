@@ -1,7 +1,7 @@
 const Index = () => {
     return(
         <div>
-            <p>Index Page </p>
+            <p>Halo Abraham </p>
         </div>
     )
 }
